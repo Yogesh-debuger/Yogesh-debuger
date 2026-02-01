@@ -1,16 +1,16 @@
-## Hi there 👋
+  ## Hello Dosto 👋
 
-<!--
-**Yogesh-debuger/Yogesh-debuger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
+Hi, I’m Yogesh 
+I am an aspiring Cloud & DevOps enthusiast with a passion for learning and building projects on AWS. Currently exploring cloud technologies, Terraform, and automation tools to develop practical skills. Always eager to take on challenges, contribute to real-world projects, and grow as a cloud professional.
 
-Here are some ideas to get you started:
+- 🔭 Learning: AWS, Terraform 
+- 👀 Interested in: Cloud architecture, DevOps automation, Infrastructure as Code
+- ⚡ Goal: Secure my first internship in cloud computing and gain hands-on experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
